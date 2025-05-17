@@ -14,10 +14,8 @@ Soy Andrés García, ingeniero electrónico especializado en análisis de datos,
 
 [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/andresgh12/)
 <hr>
-### 🛠 &nbsp; Tech Stack
 
-
-### 🛠 &nbsp; Tech Stack
+### 🛠 &nbsp; Tecnologias
 
 | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="40"> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40"> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40"> | <img src="https://www.vectorlogo.zone/logos/mysql/mysql-ar21.svg" width="40"> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="40"> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="45" height="45"> | <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="40"> | <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/Flutter-Dark.svg" width="40"> |
 |:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|
